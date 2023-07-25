@@ -1,7 +1,7 @@
 import React, { useState, useMemo } from "react";
 import styled from "styled-components";
-import { BiPlusMedical } from "react-icons/bi";
-import { FaMinus } from "react-icons/fa";
+// import { BiPlusMedical } from "react-icons/bi";
+// import { FaMinus } from "react-icons/fa";
 const UseMemo = () => {
   const initialValue = 0;
   const [count, setCount] = useState(initialValue);
